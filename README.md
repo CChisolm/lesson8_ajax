@@ -13,8 +13,7 @@ Cameron Chisolm
 This project uses a API to build a program that displays information about whatever movie the user wants to know
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://cchisolm.github.io/lesson8_ajax/ 
 
 ### Lessons Learned in the Assignment:
 1. I learned that the API's allows the public access to the Web-based software application provided by software companies so other software developers can design products that are powered by their services
